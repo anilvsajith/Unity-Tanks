@@ -1,12 +1,21 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/explode.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tank/TankShooting.cs">
     <Files>
-      <File FileName="Assets/explode.cs" Line="21" Column="17" />
-      <File FileName="Assets/Fire.cs" Line="34" Column="43" />
-      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Camera/CameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankShooting.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/Camera/CameraControl.cs" Line="45" Column="1" />
+      <File FileName="Assets/Scripts/Tank/TankHealth.cs" Line="55" Column="28" />
+      <File FileName="Assets/Scripts/explode.cs" Line="11" Column="3" />
+      <File FileName="Assets/Scripts/Shell/ShellExplosion.cs" Line="20" Column="32" />
+      <File FileName="Assets/Scripts/Tank/TankMovement.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Unity Tanks" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

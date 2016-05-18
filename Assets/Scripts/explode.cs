@@ -9,9 +9,6 @@ public class explode : MonoBehaviour {
 	void Start () {
 
 	}
-
-
-	private bool singlecollision = true;
 	void OnTriggerEnter(Collider collision) {
 		
 			//Find Child and remove its Parent
