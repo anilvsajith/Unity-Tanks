@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8C6BB000-48AA-EDE9-19AC-17151EA2E123}") = "Unity Tanks", "Assembly-CSharp-firstpass.csproj", "{72651BEE-93E5-471D-5485-98796B87A10F}"
+EndProject
+Project("{8C6BB000-48AA-EDE9-19AC-17151EA2E123}") = "Unity Tanks", "Assembly-CSharp.csproj", "{53B59DAA-2CBA-F009-23C5-F0548A133401}"
+EndProject
+Project("{8C6BB000-48AA-EDE9-19AC-17151EA2E123}") = "Unity Tanks", "Assembly-CSharp-Editor.csproj", "{9092A219-3070-4892-E307-F4B2237FF206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72651BEE-93E5-471D-5485-98796B87A10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72651BEE-93E5-471D-5485-98796B87A10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72651BEE-93E5-471D-5485-98796B87A10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72651BEE-93E5-471D-5485-98796B87A10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B59DAA-2CBA-F009-23C5-F0548A133401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B59DAA-2CBA-F009-23C5-F0548A133401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B59DAA-2CBA-F009-23C5-F0548A133401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B59DAA-2CBA-F009-23C5-F0548A133401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9092A219-3070-4892-E307-F4B2237FF206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9092A219-3070-4892-E307-F4B2237FF206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9092A219-3070-4892-E307-F4B2237FF206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9092A219-3070-4892-E307-F4B2237FF206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
